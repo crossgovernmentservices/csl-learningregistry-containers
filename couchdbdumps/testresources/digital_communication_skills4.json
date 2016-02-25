@@ -1,0 +1,55 @@
+{
+  "_id": "6b9457b8cf5211e5a8230242ac110001",
+  "doc_ID": "6b9457b8cf5211e5a8230242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "http://www.socialmedia-trainingcourses.com/courses/social-media-advanced-one-day-training-course/",
+  "resource_data": {
+    "@type": "WebSite",
+    "inLanguage": "en-GB",
+    "name": "Google communication apps learning center tips",
+    "description": "The best apps tips and tricks from Google",
+    "dateCreated": "2015-05-01",
+    "timeRequired": "PT4H",
+    "url": "http://www.socialmedia-trainingcourses.com/courses/social-media-advanced-one-day-training-course/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Google"
+    },
+    "audience": "All",
+    "keywords": [
+      "digital communication", "google apps", "google hangouts", "google tips and tricks"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Digital Skills Framework",
+        "targetName": "Digital Communications Skills Level 4",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/digitalskillsf#Communications#4"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "digital communication", "google apps", "google hangouts", "google tips and tricks"
+  ]
+}

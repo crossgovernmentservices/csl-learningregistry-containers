@@ -1,0 +1,62 @@
+{
+  "_id": "ac97c748cf5911e5a53e0242ac110001",
+  "doc_ID": "ac97c748cf5911e5a53e0242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://certification.comptia.org/certifications/it-fundamentals",
+  "resource_data": {
+    "@type": "CreativeWork",
+    "learningResourceType" : "eLearning",
+    "inLanguage": "en-GB",
+    "timeRequired": "P1W",
+    "name": "IT Fundamentals",
+    "description": "The CompTIA IT Fundamentals exam is designed to help you learn more about the world of information technology (IT).",
+    "dateCreated": "2015-05-01",
+    "url": "https://certification.comptia.org/certifications/it-fundamentals",
+    "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "price": "1000.00",
+      "priceCurrency": "GBP"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CompTIA"
+    },
+    "audience": "All",
+    "keywords": [
+      "digital problem solving", "professional development", "IT fundamentals"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Digital Skills Framework",
+        "targetName": "Digital Problem Solving Level 1",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/digitalskillsf#ProblemSolving#1"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "digital problem solving", "professional development", "IT fundamentals"
+  ]
+}

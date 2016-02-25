@@ -1,0 +1,55 @@
+{
+  "_id": "bda42e72cf5511e5b7180242ac110001",
+  "doc_ID": "bda42e72cf5511e5b7180242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "http://www.amazon.co.uk/Office-365-Dummies-Ken-Withee/dp/1118104501/ref=sr_1_1?ie=UTF8&qid=1455040162&sr=8-1&keywords=office+365+for+dummies",
+  "resource_data": {
+    "@type": "Book",
+    "inLanguage": "en-GB",
+    "name": "Office 365 for Dummies",
+    "description": "Everybody has to start somewhere",
+    "dateCreated": "2015-05-01",
+    "timeRequired": "P1M",
+    "url": "http://www.amazon.co.uk/Office-365-Dummies-Ken-Withee/dp/1118104501/ref=sr_1_1?ie=UTF8&qid=1455040162&sr=8-1&keywords=office+365+for+dummies/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "SocialB"
+    },
+    "audience": "All",
+    "keywords": [
+      "digital communication", "office 365 basics", "starting digital"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Digital Skills Framework",
+        "targetName": "Digital Communications Skills Level 1",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/digitalskillsf#Communications#1"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "digital communication", "social media"
+  ]
+}

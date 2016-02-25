@@ -1,0 +1,55 @@
+{
+  "_id": "f3406cf6cf1611e5bb0e0242ac110001",
+  "doc_ID": "f3406cf6cf1611e5bb0e0242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "http://www.amazon.co.uk/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854",
+  "resource_data": {
+    "@type": "Book",
+    "inLanguage": "en-GB",
+    "name": "Communication Skills Training: body language secrets, speaking with confidence, magic responses++",
+    "description": "When it comes to delivering a pitch, Oren Klaff has unparalleled credentials. Over the past 13 years, he has used his one-of-a- kind method to raise more than $400 million―and now, for the first time, he describes his formula to help you deliver a winning pitch in any business situation",
+    "dateCreated": "2015-05-01",
+    "url": "http://www.amazon.co.uk/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854",
+    "author" : "Oren Klaff",
+    "publisher": {
+      "@type": "Organization",
+      "name": "McGraw-Hill Professional"
+    },
+    "audience": "All",
+    "keywords": [
+      "communication skills", "professional development", "sales", "pitching", "persuading"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Skills and Knowledge Framework",
+        "targetName": "Communications Skills Level 4",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/sites/default/files/policy_profession_skills_and_knowledge_framework_jan2013web.pdf#Communications#4"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "professional development", "sales", "pitching", "persuading"
+  ]
+}

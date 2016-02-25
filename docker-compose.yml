@@ -1,0 +1,20 @@
+restore:
+   image: couchlrrestore 
+   command: mongorestore -h lrs /tmp/dump/
+   links:
+      - couchdb
+      - lr3
+   volumes:
+      - ./couchdbdumps:/tmp/couchdbdumps
+   command: "/bin/sh -c 'dockerize -wait http://couchdb:5984 && cd /tmp/couchdbdumps && ./restoredb.sh && dockerize -wait http://lr3 && ./uploadresources.sh'"
+lr3:
+  #build: .
+  image: lr3
+  links:
+    - couchdb
+  ports:
+    - "8002:80"
+couchdb:
+  image: cmorandi/couchdblr
+  expose:
+   - "5984" 

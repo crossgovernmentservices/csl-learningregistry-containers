@@ -1,0 +1,55 @@
+{
+  "_id": "7db185f0cf7b11e58a0c0242ac110001",
+  "doc_ID": "7db185f0cf7b11e58a0c0242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://books.google.co.uk/books?id=OFfI1GkpqwIC&pg=PA3&lpg=PA3&dq=expert+problem+solvers+digital&source=bl&ots=N9Mo2XjG-Y&sig=mVfBzBKpmz-o2_mB_GvYe2s-YvU&hl=en&sa=X&ved=0ahUKEwjIyvr62evKAhXIWxQKHR1qAhkQ6AEIHzAA#v=onepage&q=expert%20problem%20solvers%20digital&f=false",
+  "resource_data": {
+    "@type": "Book",
+    "inLanguage": "en-GB",
+    "timeRequired": "PT1W",
+    "name": "Multiple Perspectives on Problem Solving and Learning in the Digital Age",
+    "description": "This book reveals problem solving in the digital age with applied tools and techniques shared by considered masters in the subject.",
+    "dateCreated": "2015-05-01",
+    "url": "https://books.google.co.uk/books?id=OFfI1GkpqwIC&pg=PA3&lpg=PA3&dq=expert+problem+solvers+digital&source=bl&ots=N9Mo2XjG-Y&sig=mVfBzBKpmz-o2_mB_GvYe2s-YvU&hl=en&sa=X&ved=0ahUKEwjIyvr62evKAhXIWxQKHR1qAhkQ6AEIHzAA#v=onepage&q=expert%20problem%20solvers%20digital&f=false",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Springer"
+    },
+    "audience": "All",
+    "keywords": [
+      "digital problem solving", "trouble shooting tools", "master IT trouble shooting"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Digital Skills Framework",
+        "targetName": "Digital Problem Solving Level 5",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/digitalskillsf#ProblemSolving#5"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "digital problem solving", "trouble shooting tools", "master IT trouble shooting"
+  ]
+}

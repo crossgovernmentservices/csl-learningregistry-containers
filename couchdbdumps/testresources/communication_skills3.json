@@ -1,0 +1,55 @@
+{
+  "_id": "13f3dbbccf1311e59f650242ac110070",
+  "doc_ID": "13f3dbbccf1311e59f650242ac110070",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://alison.com/courses/diploma-in-business-communication-skills",
+  "resource_data": {
+    "@type": "CreativeWork",
+    "learningResourceType" : "eLearning",
+    "inLanguage": "en-GB",
+    "name": "Diploma in Business Communication Skills",
+    "description": "The free online course Diploma in Business Communication Skills will help you develop effective communication skills for the workplace, from enhancing your professional writing techniques to improving your interpersonal and presentation skills.",
+    "dateCreated": "2015-05-01",
+    "url": "https://alison.com/courses/diploma-in-business-communication-skills",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Alison"
+    },
+    "audience": "All",
+    "keywords": [
+      "communication skills", "professional development", "planning process"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Skills and Knowledge Framework",
+        "targetName": "Communications Skills Level 2",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/sites/default/files/policy_profession_skills_and_knowledge_framework_jan2013web.pdf#Communications#2"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "communication skills", "professional development", "planning process"
+  ]
+}

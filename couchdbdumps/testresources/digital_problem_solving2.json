@@ -1,0 +1,61 @@
+{
+  "_id": "3390a28ccf7911e58e010242ac110001",
+  "doc_ID": "3390a28ccf7911e58e010242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://www.udemy.com/it-troubleshooting/",
+  "resource_data": {
+    "@type": "Video",
+    "inLanguage": "en-GB",
+    "timeRequired": "PT1H",
+    "name": "IT Troubleshooting Skill Training",
+    "description": "Intermediate level trouuble shooting skills lectures.",
+    "dateCreated": "2015-05-01",
+    "url": "https://www.udemy.com/it-troubleshooting/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Udemy"
+    },
+     "offers": {
+      "@type": "Offer",
+      "availability": "http://schema.org/InStock",
+      "price": "50.00",
+      "priceCurrency": "GBP"
+    },
+    "audience": "All",
+    "keywords": [
+      "digital problem solving", "computer networks", "IT trouble shooting"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Digital Skills Framework",
+        "targetName": "Digital Problem Solving Level 3",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/digitalskillsf#ProblemSolving#3"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "digital problem solving", "computer networks", "IT trouble shooting"
+  ]
+}

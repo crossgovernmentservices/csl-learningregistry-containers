@@ -1,0 +1,56 @@
+{
+  "_id": "d8e42a1ecf4d11e5ac3f0242ac110001",
+  "doc_ID": "d8e42a1ecf4d11e5ac3f0242ac110001",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://www.siliconbeachtraining.co.uk/digital-marketing-training/html-emails-training",
+  "resource_data": {
+    "@type": "CreativeWork",
+    "learningResourceType": "eLearning",
+    "inLanguage": "en-GB",
+    "name": "HTML Email Training",
+    "description": "HTML emails enable you to catch the eye of the recipient by the use of engaging layouts, images and links. HTML emails not only look great but are also proven to increase ROI.",
+    "dateCreated": "2015-05-01",
+    "timeRequired": "P1W",
+    "url": "https://www.siliconbeachtraining.co.uk/digital-marketing-training/html-emails-training",
+    "publisher": {
+      "@type": "Organization",
+      "name": "siliconbeachtraining"
+    },
+    "audience": "All",
+    "keywords": [
+      "digital communication", "html mail", "email"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Digital Skills Framework",
+        "targetName": "Digital Communications Skills Level 5",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/digitalskillsf#Communications#5"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "digital communication", "html mail", "email"
+  ]
+}

@@ -1,0 +1,4 @@
+{"new_edits":false,"docs":[
+{"_id":"network_description","_rev":"1-d8b950c280605d33e771048ed62ca370","doc_type":"network_description","doc_version":"0.20.0","network_description":"Learning Registry Open, Public Network","active":true,"network_id":"Learning Registry Open, Public Network","doc_scope":"network","network_name":"Learning Registry Open, Public Network","community_id":"Learning Registry Open, Public Community","network_admin_identity":"network.admin@learningregistry.org"},
+{"_id":"network_policy_description","_rev":"1-a269657f3ae7c754234ecb38c5467433","doc_type":"policy_description","network_id":"Learning Registry Open, Public Network","doc_version":"0.10.0","policy_version":"0.10.0","TTL":400,"active":true,"doc_scope":"network","policy_id":"Learning Registry Open, Public Network Policy"}
+]}

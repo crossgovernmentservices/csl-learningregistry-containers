@@ -1,0 +1,55 @@
+{
+  "_id": "ee7863e6ce9311e591dc0242ac110070",
+  "doc_ID": "ee7863e6ce9311e591dc0242ac110070",
+  "create_timestamp": "2016-02-08T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "http://www.slideshare.net/binay285/basic-communication-skills-26224922",
+  "resource_data": {
+    "@type": "Creativework",
+    "learningResourceType": "slideshow",
+    "inLanguage": "en-GB",
+    "name": "Basic Communication Skills",
+    "description": "Slide show with some practicals communication skills tips for new starters.",
+    "dateCreated": "2015-05-01",
+    "url": "http://www.slideshare.net/binay285/basic-communication-skills-26224922",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Slideshare"
+    },
+    "audience": "All",
+    "keywords": [
+      "communication skills", "hints and tips"
+    ],
+    "educationalAlignment": [
+      {
+        "@type": "AlignmentObject",
+        "alignmentType": "teaches",
+        "educationalFramework": "Civil Service Skills and Knowledge Framework",
+        "targetName": "Communications Skills Level 1",
+        "targetUrl": "https://civilservicelearning.civilservice.gov.uk/sites/default/files/policy_profession_skills_and_knowledge_framework_jan2013web.pdf#Communications#1"
+      }
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning", "communication skills", "hints and tips"
+  ]
+}

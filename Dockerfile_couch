@@ -1,0 +1,4 @@
+FROM klaemo/couchdb:1.6.1
+
+COPY localini_couch /usr/local/etc/couchdb/local.ini
+
