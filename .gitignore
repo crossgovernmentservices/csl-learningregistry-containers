@@ -1,0 +1,4 @@
+.DS_Store
+couchdbdumps/apps-design*
+couchdbdumps/apps-nodesign
+couchdbdumps/resource_data-*

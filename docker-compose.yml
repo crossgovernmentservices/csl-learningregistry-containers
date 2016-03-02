@@ -11,7 +11,7 @@ learningregistry:
   links:
     - couchdb
   ports:
-    - "8002:80"
+    - "8012:80"
 couchdb:
   build: couch 
   expose:

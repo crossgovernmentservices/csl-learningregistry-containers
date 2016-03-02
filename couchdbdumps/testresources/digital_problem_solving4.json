@@ -18,7 +18,7 @@
   "resource_data": {
     "@type": "Book",
     "inLanguage": "en-GB",
-    "timeRequired": "PT1W",
+    "timeRequired": "P1W",
     "name": "Multiple Perspectives on Problem Solving and Learning in the Digital Age",
     "description": "This book reveals problem solving in the digital age with applied tools and techniques shared by considered masters in the subject.",
     "dateCreated": "2015-05-01",
