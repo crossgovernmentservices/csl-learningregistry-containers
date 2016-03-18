@@ -1,0 +1,48 @@
+{
+  "_id": "c0cb9ab77d8a4c55a14a5730109bbce2",
+  "doc_ID": "c0cb9ab77d8a4c55a14a5730109bbce2",
+  "create_timestamp": "2016-03-18T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://civilservicelearning.civilservice.gov.uk/learning/course/view.php?id=598",
+  "resource_data": {
+    "@type": "CreativeWork",
+    "learningResourceType": "eLearning",
+    "inLanguage": "en-GB",
+    "name": "Operational Delivery Profession",
+    "description": "Operational delivery is the largest profession across government with around 280,000 members. It is a professional group made up of those people, and their managers, who provide services directly to the public through contact centres, processing and face-to-face roles. Almost all government departments have business areas with operational delivery roles.  This 20 minute introduction explains the benefits of being part of the profession and will help you start continuing professional development.",
+    "dateCreated": "2015-05-01",
+    "timeRequired": "PT20M",
+    "url": "https://civilservicelearning.civilservice.gov.uk/learning/course/view.php?id=598",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LEO Learning"
+    },
+    "audience": "All",
+    "keywords": [
+      "odp", "civil service", "professional development", "Operational Delivery"
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning","odp", "civil service", "professional development", "Operational Delivery"
+
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "e7693080099f4ac19e646b45b7fdfb36",
+  "doc_ID": "e7693080099f4ac19e646b45b7fdfb36",
+  "create_timestamp": "2016-03-18T11:00:00.00000Z",
+  "doc_type": "resource_data",
+  "doc_version": "0.49.0",
+  "payload_placement": "inline",
+  "payload_schema": [
+    "schema.org",
+    "lrmi",
+    "JSON-LD"
+  ],
+  "TOS": {
+    "submission_TOS": "https://civilservicelearning.civilservice.gov.uk/"
+  },
+  "resource_data_type": "metadata",
+  "resource_locator": "https://civilservicelearning.civilservice.gov.uk/learning/course/view.php?id=594",
+  "resource_data": {
+    "@type": "CreativeWork",
+    "learningResourceType": "eLearning",
+    "inLanguage": "en-GB",
+    "name": "Communicating with customers 2013",
+    "description": "The way we communicate with customers can greatly influence the way people judge government services and helps us ensure we get the right information at the right time.  The purpose of this unit is to help you develop your professional communication skills.",
+    "dateCreated": "2015-05-01",
+    "timeRequired": "PT45M",
+    "url": "https://civilservicelearning.civilservice.gov.uk/learning/course/view.php?id=594",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LEO Learning"
+    },
+    "audience": "All",
+    "keywords": [
+      "communication", "civil service"
+    ],
+    "@context": "http://schema.org/"
+  },
+  "active": true,
+  "identity": {
+    "signer": "Ian Learnalot",
+    "submitter": "CSL",
+    "submitter_type": "user",
+    "curator": "Civil Service Learning"
+  },
+  "keys": [
+    "Civil Service Learning","communication", "civil service" 
+  ]
+}
